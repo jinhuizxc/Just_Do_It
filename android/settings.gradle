@@ -1,0 +1,3 @@
+rootProject.name = 'Just_Do_It'
+
+include ':app'
