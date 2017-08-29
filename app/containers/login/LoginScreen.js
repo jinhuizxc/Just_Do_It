@@ -124,7 +124,7 @@ export default class LoginScreen extends Component {
                                      alignSelf:'center',
                                      backgroundColor:'#7292a4',
                                      width:px3dp(530),
-                                     height:px3dp(90),
+                                     height:px3dp(110),
                                      marginLeft:px3dp(95),
                                      borderRadius:px3dp(20),
                                  }}

@@ -10,7 +10,7 @@ export default class _Button extends Component {
         addstyle_text:View.propTypes.style
     };
     render(){
-        const {addstyle_bt,addstyle_text} = this.props
+        const {addstyle_bt,addstyle_text} = this.props;
         return(
             <TouchableOpacity style={[styles.button,addstyle_bt]} onPress={this.props.onPress}>
                 <Text style={[styles.text,addstyle_text]}>{this.props.text}</Text>

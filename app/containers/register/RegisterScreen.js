@@ -309,7 +309,7 @@ const styles = StyleSheet.create({
     send_message:{
         marginTop:px3dp(18),
         width:px3dp(248),
-        height:px3dp(80),
+        height:px3dp(90),
         backgroundColor:'#7292a4',
         borderRadius:px3dp(20),
     },
@@ -318,7 +318,7 @@ const styles = StyleSheet.create({
     },
     setup:{
         width:px3dp(530),
-        height:px3dp(90),
+        height:px3dp(110),
         backgroundColor:'#7292a4',
         borderRadius:px3dp(20),
         marginLeft:px3dp(30),
